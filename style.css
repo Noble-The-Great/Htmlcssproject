@@ -1,0 +1,30 @@
+header {text-align: center; padding: 30px
+border: solid black 20px; background-color: black; color: white; }
+
+
+
+
+a { color: white; margin-left: 10px; margin-right: 10px; font-family: "times new roman", times, serif; }
+
+
+
+#secondheader {text-align: center; padding:20px; color: white;
+font-family: Helvetica, serif ,times; font-size: 20px;
+font-weight: bold;}
+
+
+
+section {color:white ; border: white solid 30px;  }
+
+section li { font-size: 25px; font-family: Rockwell, "franklin Gothic", Verdana; font-weight: bold; }
+
+section h2 {padding: 30px; text-align: center; font-size: 30px;}
+
+#like { margin-left: auto; margin-right: auto; display: block; }
+
+
+
+.first {color: white; padding: 10px; font-size: 20px; margin-top: 2em; line-height: 2;}
+
+
+body {background-image: url(https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/g9a9m-MHM425BWQ9F-Full-Image_GalleryBackground-en-US-1521579412582._SX1080_.jpg);}
